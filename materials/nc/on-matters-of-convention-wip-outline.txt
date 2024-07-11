@@ -1,0 +1,66 @@
+1. The javelin
+==============
+- idea of a clear differentiation between the facts and the conventions
+---- in a sense, no one is contesting "what happened"; all of the available evidence agrees
+---- quote from Antiphon tetralogy about the facts being clear
+
+- so then the question — and not a trivial question at all, it seems — is how to *call*/describe those facts
+---- or the "character" of the facts, if we want to phrase it in such a way that gives it more weight
+---- Cicero's definitional issues
+
+- question of who is responsible for the accident, or "caused" it
+---- Protagoras/Bonazzi/St. John on it being different from different perspectives
+
+- how do courts typically deal with such questions? seems like through the concept of "proximate cause"
+---- common in injury law, determining liability
+---- historically traced by Nicholas St. John
+---- St. John's argument that there's nothing concrete in this idea
+---- really everything just hinges on its relevance to the question of *responsibility*: what duties did each person have, which they fulfilled or didn't?
+------- "who caused it" is already a very different question from "what caused it"
+---- and whoever said just one party had to be culpable
+
+2. The squirrel and the sun [note: restructure this to reflect that the sun and the squirrel examples are more equivalent than I originally thought]
+===========================
+- here again you *seem* to get a situation where there's a difference between the facts and how you talk about the facts
+- the difference is just that the facts and how you talk about them don't appear as separate things here, but as intertwined.
+---- in the squirrel case you might untangle them, as James does; 
+------- for him this is a pointless debate:  everyone *knows* in some sense what's happening, it's just depends on how you interpret a word
+------- "around" in this case turns out to be irredeemably relative, but you can isolate the problem to a single word, and get around it by describing it with different words
+---- in the sun case, it's hard to untangle it; there seems to be something relative about the concept of motion
+------- Goodman challenges you to describe the facts apart from any frames of reference
+
+3. This arbitrariness is an endemic quality of facts
+====================================================
+- provide non-motion examples of cases where different frames of reference provide different facts
+---- phrases from the facts in the javelin case e.g."death" in different contexts
+- some responses to these examples, and my replies to those responses
+---- the Cavellian "what did I ever mean by..." response
+------- [this is where I want to make a broader challenge about how facts work]
+---- the challenge that this isn't as endemic as you say
+------- granted with some words/concepts, it's harder to generate examples that confuse our understanding of what they are
+---- the assertion that there's something 'underneath' all the words, something we don't have control over and stays the same however we decide to phrase it
+------- on a basic level I don't disagree; [separate objectivity here from correspondence theory of language]
+------- what we want is to be able to say something will behave the way it does regardless of how we describe it
+---------- all we need, in order to acknowledge that, is to say that facts are validated in reference to the world
+------------- in the javelin case, witnesses, fingerprints, etc show a fact's efficacy based on how we interpret it
+
+
+
+
+
+4. Some conclusions drawn from 3
+=================================
+- Ruskin: "I know you feel as if I were trying to take away the honour of your churches. Not so; I am trying to prove to you the honour of your houses and your hills; not that the Church is not sacred — but that the whole Earth IS"
+- the only way facts can conflict is in our making use of them; the things we can find out, and the actions we can take successfully on the basis of knowing a fact are its validation
+- you can know a thing without being able to articulate it directly
+---- riding a bike, the meaning of a word
+
+
+
+
+
+
+
+
+
+
